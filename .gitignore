@@ -1,0 +1,33 @@
+# Entornos virtuales
+venv/
+.env
+*.env
+
+# Archivos temporales de Python
+*.pyc
+*.pyo
+__pycache__/
+
+# Archivos de logs
+*.log
+
+# Configuración específica del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos creados por IDEs/editores
+.idea/
+.vscode/
+*.swp
+
+# Cachés y otros archivos temporales
+.cache/
+*.tmp
+
+# Dependencias instaladas
+*.egg-info/
+dist/
+build/
+
+# Archivos de Streamlit
+.streamlit/secrets.toml
