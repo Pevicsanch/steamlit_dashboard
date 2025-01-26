@@ -31,3 +31,9 @@ build/
 
 # Archivos de Streamlit
 .streamlit/secrets.toml
+
+# Carpeta de datos
+data/
+
+# pyenv
+.steamlit_dashboard/
